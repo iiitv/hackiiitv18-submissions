@@ -7,6 +7,24 @@ Resume Ignore Problem :
 
 ATS : Applicant Tracking System
 
+## Benefits of our Portal : 
+
+1. Can be easily integrated with the current Applicant Tracking Systems (ATS)
+2. Reduced time in hiring process for companies.
+3. Adaptive Screening Test ensures that only the best quality of candidates get through the screening processes.
+   Behavioural/Psychometric tests help in distinguishing the mental traits/personality of the applicant. What does this          ensure? It helps in ensuring that only those candidates who are a right fit for the company’s culture get through. 
+   Dataset we are using : Myer-Briggs Type Indicator (MBTI)
+
+4. Why our behavioral testing model is better than those currently in place?
+   We use State of the Art approach ULMFit Model to classify the personality traits of the applicant. This allows us to          identify the personality traits of the applicant (For example: whether he is an introvert, a team player etc) and check      whether he/she is a good fit for the posted job position.
+
+6. Benefit for applicants :
+     * Improved experience as the resume “ignore” problem means at least 65% of your candidates never hear back about their          job application. Automated candidate screening enables you to instantly identify the most qualified candidates from          your pool and start engaging with them sooner.
+     * Future work : 
+       * Based on the CV score, we plan to integrate a recommender system for candidates to check their CV score pertaining            to a specific domain.
+       * Open-source the CV Scoring module. 
+
+
 ## How automated candidate screening works
 
 Automated candidate screening works in four basic steps:
