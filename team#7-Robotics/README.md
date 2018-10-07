@@ -1,3 +1,4 @@
+
 # AUTOMATED CLASSROOM ATTENDANCE
 
 IDEA: This project automates attendance of students automatically based on facial recognition
@@ -26,3 +27,4 @@ IDEA: This project automates attendance of students automatically based on facia
 - The image is captured using camera with raspberrypi 1b+.
 - Implementation of OpenCV for facial recogniton algorithm.
 - Timestamps are stored in a file using ID as primary key and time spent inside the classroom is calculated as per the timestamps using python programing language.
+- The code for Face Recognition has been implemented from https://github.com/shantnu/FaceDetect 
