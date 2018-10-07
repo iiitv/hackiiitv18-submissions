@@ -8,3 +8,5 @@ There are mainly two actors:
 
 Teacher can upload quiz, it will be appear on student's dashboard .
 student can give quiz in real time and his score will be appear on teacher's dashboard by student's name.
+
+
