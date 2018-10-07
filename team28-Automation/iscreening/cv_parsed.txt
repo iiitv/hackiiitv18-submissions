@@ -1,0 +1,257 @@
+
+                   ---------PERSONAL DETAILS----------
+
+
+<CANDIDATE_FULL_NAME>MARISSA MAYER</CANDIDATE_FULL_NAME>
+<CANDIDATE_FIRST_NAME>MARISSA</CANDIDATE_FIRST_NAME>
+<CANDIDATE_MIDDLE_NAME></CANDIDATE_MIDDLE_NAME>
+<CANDIDATE_LAST_NAME>MAYER</CANDIDATE_LAST_NAME>
+<FATHER_NAME></FATHER_NAME>
+<PRIMARY_EMAIL_ID>mmayer@yahoo-inc.com</PRIMARY_EMAIL_ID>
+<SECONDARY_EMAIL_ID></SECONDARY_EMAIL_ID>
+<OFFICIAL_EMAIL_ID></OFFICIAL_EMAIL_ID>
+<PHONE_MOBILE></PHONE_MOBILE>
+<PHONE_BASIC></PHONE_BASIC>
+<FAX_PHONE></FAX_PHONE>
+<DOB></DOB>
+<STREET1>Street,00000County Sunnyvale,CA, Business Woman & Proud Geek, </STREET1>
+<STREET2></STREET2>
+<CITY>Sunnyvale</CITY>
+<REGION>in </REGION>
+<COUNTRY>Usa</COUNTRY>
+<PIN></PIN>
+<CURRENT_LOCATION>Sunnyvale</CURRENT_LOCATION>
+<PREFERRED_LOCATION></PREFERRED_LOCATION>
+<AGE></AGE>
+<TOTAL_PROJECT_EXPERIENCE>3Year(s) & 7Month(s)</TOTAL_PROJECT_EXPERIENCE>
+<TOTAL_EXPERIENCE>8Year(s) & 0Month(s)</TOTAL_EXPERIENCE>
+<CURRENT_SALARY></CURRENT_SALARY>
+<EXPECTED_SALARY></EXPECTED_SALARY>
+<NATIONALITY></NATIONALITY>
+<LANGUAGES_1></LANGUAGES_1>
+<MARITAL_STATUS>Unspecified</MARITAL_STATUS>
+<GENDER>Unspecified</GENDER>
+<PASSPORT_NUMBER></PASSPORT_NUMBER>
+<VISA_STATUS></VISA_STATUS>
+<DRIVING_LICENSE_DETAILS></DRIVING_LICENSE_DETAILS>
+
+
+                          ---------PROFESSIONAL DETAILS----------
+
+
+<JOB_OBJECTIVE></JOB_OBJECTIVE>
+<EXECUTIVE_SUMMARY></EXECUTIVE_SUMMARY>
+
+
+<CERTIFICATIONS></CERTIFICATIONS>
+<ROLE></ROLE>
+<FUNCTIONAL_AREA></FUNCTIONAL_AREA>
+<INDUSTRY_TYPE></INDUSTRY_TYPE>
+
+
+                           ---------EMPLOYMENT HISTORY----------
+
+
+<CURRENT_COMPANY_NAME>IBM</CURRENT_COMPANY_NAME>
+<CURRENT_DESIGNATION></CURRENT_DESIGNATION>
+<CURRENT_PROJECT_START_DATE>1/1/2018</CURRENT_PROJECT_START_DATE>
+<CURRENT_PROJECT_END_DATE>12/31/2018</CURRENT_PROJECT_END_DATE>
+<CURRENT_PROJECT_SUMMARY>IBM MOST PROUD OF July2012-2018 Sunnyvale,CA 1⁄2  believedmostintheimmensevalueYahoo!hascreated CourageIhad  totakeasinkingshipandtrytomakeit  float</CURRENT_PROJECT_SUMMARY>
+
+
+<PREVIOUS_COMPANY_NAME_1>Persistence&Loyalty</PREVIOUS_COMPANY_NAME_1>
+<PREVIOUS_DESIGNATION_1></PREVIOUS_DESIGNATION_1>
+<PREVIOUS_PROJECT_START_DATE_1>1/1/2015</PREVIOUS_PROJECT_START_DATE_1>
+<PREVIOUS_PROJECT_END_DATE_1>12/31/2015</PREVIOUS_PROJECT_END_DATE_1>
+<PREVIOUS_PROJECT_SUMMARY_1>billioninGAAPrevenuein2015 Persistence&Loyalty   Ishoweddespitethehardmoments andmywillingnesstostaywithYahoo aftertheacquisition Vice President of Location & Services Google Google'sGrowth  fromahundredthousandsearchesper</PREVIOUS_PROJECT_SUMMARY_1>
+
+
+<PREVIOUS_COMPANY_NAME_2>PaloAlto, CA</PREVIOUS_COMPANY_NAME_2>
+<PREVIOUS_DESIGNATION_2></PREVIOUS_DESIGNATION_2>
+<PREVIOUS_PROJECT_START_DATE_2>10/1/2010</PREVIOUS_PROJECT_START_DATE_2>
+<PREVIOUS_PROJECT_END_DATE_2>7/1/2012</PREVIOUS_PROJECT_END_DATE_2>
+<PREVIOUS_PROJECT_SUMMARY_2>Oct2010-July2012 PaloAlto,CA 1⁄2 daytooverabillion  Oversaw1000+engineersandproductmanagersworkingonGoogleMaps, Inspiringwomenintech  GooglePlacesandGoogleEarth YoungestCEOonFortune'slistof50 mostpowerfulwomen Vice President of Search Products & UX</PREVIOUS_PROJECT_SUMMARY_2>
+
+
+
+
+                             ---------EDUCATIONAL DETAILS----------
+
+
+<HIGHEST_DEGREE>M.S.</HIGHEST_DEGREE>
+<HIGHEST_EDUCATIONTYPE>Postgraduate</HIGHEST_EDUCATIONTYPE>
+<HIGHEST_EDUCATIONDETAILS>General</HIGHEST_EDUCATIONDETAILS>
+<HIGHEST_FIELDOFSTUDY>Medical</HIGHEST_FIELDOFSTUDY>
+<HIGHEST_EDUCATION_START_DATE>9/1/1997</HIGHEST_EDUCATION_START_DATE>
+<HIGHEST_EDUCATION_YEAR_OF_PASSING>6/1/1999</HIGHEST_EDUCATION_YEAR_OF_PASSING>
+<HIGHEST_INSTITUTION_NAME></HIGHEST_INSTITUTION_NAME>
+<HIGHEST_INSTITUTION_TYPE>University</HIGHEST_INSTITUTION_TYPE>
+<HIGHEST_INSTITUTION_LOCATION>M</HIGHEST_INSTITUTION_LOCATION>
+<HIGHEST_EDUCATION_DESCRIPTION>Spendingtimewithfamily Businessdevelopment NewYork&SanFranciscoBallet forYahoo!afterthe M.S. in Computer Science Jawboneboardmember Verizonacquisition StanfordUniversity Publicresolvingissues ShowingYahoo! Sept1997-June1999</HIGHEST_EDUCATION_DESCRIPTION>
+<HIGHEST_EDUCATION_MARKS></HIGHEST_EDUCATION_MARKS>
+
+
+<PREVIOUS_DEGREE_1>B.S.</PREVIOUS_DEGREE_1>
+<PREVIOUS_EDUCATIONTYPE_1>Postgraduate</PREVIOUS_EDUCATIONTYPE_1>
+<PREVIOUS_EDUCATIONDETAILS_1>General</PREVIOUS_EDUCATIONDETAILS_1>
+<PREVIOUS_FIELDOFSTUDY_1>Medical</PREVIOUS_FIELDOFSTUDY_1>
+<PREVIOUS_EDUCATION_START_DATE_1>9/1/1993</PREVIOUS_EDUCATION_START_DATE_1>
+<PREVIOUS_EDUCATION_YEAR_OF_PASSING_1>6/1/1997</PREVIOUS_EDUCATION_YEAR_OF_PASSING_1>
+<PREVIOUS_INSTITUTION_NAME_1></PREVIOUS_INSTITUTION_NAME_1>
+<PREVIOUS_INSTITUTION_TYPE_1>University</PREVIOUS_INSTITUTION_TYPE_1>
+<PREVIOUS_INSTITUTION_LOCATION_1></PREVIOUS_INSTITUTION_LOCATION_1>
+<PREVIOUS_EDUCATION_DESCRIPTION_1>withYahoo!investors employeesthattheir  workhasmeaning B.S. in Symbolic Systems Sleeping&dreaming Bakingcupcakes aboutwork StanfordUniversity Sept1993-June1997</PREVIOUS_EDUCATION_DESCRIPTION_1>
+<PREVIOUS_EDUCATION_MARKS_1></PREVIOUS_EDUCATION_MARKS_1>
+
+
+
+
+<RESUME_CONTEXT>The candidate is working as  with a good working Experience of 8Year(s) & 0Month(s) and Skilled in UX. The Current Salary:  and Expected Salary: . Candidate's Functional Area seems to be:  and Industry is ; Currently located at Sunnyvale. The candidate posses M.S. with major as Medical.</RESUME_CONTEXT>
+
+
+                             ---------CANDIDATE RESUME IN TEXT FORMAT----------
+
+
+<RESUME_TEXT_FORMAT>MARISSA MAYER
+Business Woman & Proud Geek
+mmayer@yahoo-inc.com Address,Street,00000County Sunnyvale,CA
+[
+marissamayr.tumblr.com/
+R
+@marissamayer linkedin.com/in/
+½
+marissamayer
+® 7 ¯
+EXPERIENCE LIFE PHILOSOPHY
+President & CEO “If you don’t have any shadows, you’re
+not standing in the light.”
+IBM
+MOST PROUD OF
+July2012–2018 Sunnyvale,CA
+ ½
+Ledthe$5billionacquisitionofthecompanywithVerizon–theentitywhich
+
+believedmostintheimmensevalueYahoo!hascreated
+CourageIhad
+AcquiredTumblrfor$1.1billionandmovedthecompany’sblogthere
+3
+totakeasinkingshipandtrytomakeit
+
+BuiltYahoo’smobile,videoandsocialbusinessesfromnothingin2011to$1.6
+ﬂoat
+
+billioninGAAPrevenuein2015
+Tripledthecompany’smobilebasetoover600millionmonthlyactiveusers
+Persistence&Loyalty
+
+andgeneratedover$1billionofmobileadvertisingrevenuelastyear
+z
+Ishoweddespitethehardmoments
+andmywillingnesstostaywithYahoo
+aftertheacquisition
+Vice President of Location & Services
+Google Google’sGrowth
+`
+fromahundredthousandsearchesper
+Oct2010–July2012 PaloAlto,CA
+ ½
+daytooverabillion
+PositionGoogleMapsastheworldleaderinmobileappsandnavigation
+
+Oversaw1000+engineersandproductmanagersworkingonGoogleMaps, Inspiringwomenintech
+
+GooglePlacesandGoogleEarth
+♀
+YoungestCEOonFortune’slistof50
+mostpowerfulwomen
+Vice President of Search Products & UX
+STRENGTHS
+Google
+2005–2010 PaloAlto,CA
+Hard-working(18/24) Persuasive
+ ½
+Motivator&Leader
+Product Manager & UI Lead
+Google
+UX MobileDevices&Applications
+Oct2001–July2005 PaloAlto,CA
+ProductManagement&Marketing
+ ½
+AppointedbythefounderLarryPagein2001toleadtheProduct
+LANGUAGES
+
+ManagementandUserInteractionteams
+OptimizedGoogle’shomepageandA/Btestedeveryminordetailtoincrease
+
+usability(incl.spacingbetweenwords,colorschemesandpixel-by-pixel
+elementalignment)
+English
+Spanish
+○○○○○
+A DAY OF MY LIFE
+German
+○○○○○
+○○○○○
+EDUCATION
+Spendingtimewithfamily
+Businessdevelopment
+NewYork&SanFranciscoBallet forYahoo!afterthe
+M.S. in Computer Science
+Jawboneboardmember Verizonacquisition
+StanfordUniversity
+Publicresolvingissues
+ShowingYahoo!
+Sept1997–June1999
+withYahoo!investors
+employeesthattheir
+
+workhasmeaning
+B.S. in Symbolic Systems
+Sleeping&dreaming
+Bakingcupcakes
+aboutwork
+StanfordUniversity
+Sept1993–June1997
+
+
+
+PUBLICATIONS REFEREES
+Books
+Prof.AlphaBeta
+
+a.beta@university.edu
+Conway,Damian(2000). ObjectOrientedPerl: Acomprehensiveguideto
+[
+AddressLine1
+
+conceptsandprogrammingtechniques. Connecticut,USA:Manning
+R
+Addressline2
+PublicationsCo.
+Prof.GammaDelta
+Journal Articles
+g.delta@university.edu
+q
+[
+Codish,M.,K.Marriott,andC.K.Taboch(2000). “Improvingprogram
+AddressLine1
+
+R
+analysesbystructureuntupling”. In: JournalofLogicProgramming 43
+Addressline2
+(3),pp.251–263.
+Meyer,Bernd(2000). “Aconstraint-basedframeworkfor
+
+diagrammaticreasoning”. In: AppliedArtiﬁcialIntelligence14(4),
+pp.327–344.
+Conference Proceedings
+
+Zou,WillYetal.(2013). “BilingualWordEmbeddingsfor
+
+Phrase-BasedMachineTranslation.”In: EMNLP,pp.1393–1398.
+Hu,J.etal.(2000). “Fastandrobustequalization: Acasestudy”. In:
+
+ProceedingsoftheWorldMulticonferenceonSystemics,Cyberneticsand
+Informatics,(SCI2000),Florida,USA,23-26July2000. FL,USA:
+InternationalInstituteofInformaticsandSystemics,pp.398–403.</RESUME_TEXT_FORMAT>
+

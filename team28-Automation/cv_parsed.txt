@@ -1,0 +1,178 @@
+
+                   ---------PERSONAL DETAILS----------
+
+
+<CANDIDATE_FULL_NAME></CANDIDATE_FULL_NAME>
+<CANDIDATE_FIRST_NAME></CANDIDATE_FIRST_NAME>
+<CANDIDATE_MIDDLE_NAME></CANDIDATE_MIDDLE_NAME>
+<CANDIDATE_LAST_NAME></CANDIDATE_LAST_NAME>
+<FATHER_NAME></FATHER_NAME>
+<PRIMARY_EMAIL_ID>annalist@cmu.edu.</PRIMARY_EMAIL_ID>
+<SECONDARY_EMAIL_ID></SECONDARY_EMAIL_ID>
+<OFFICIAL_EMAIL_ID></OFFICIAL_EMAIL_ID>
+<PHONE_MOBILE>(412)5555555</PHONE_MOBILE>
+<PHONE_BASIC></PHONE_BASIC>
+<FAX_PHONE></FAX_PHONE>
+<DOB></DOB>
+<STREET1>SMC# 1234, 5000 Forbes Avenue, ANNA LIST, </STREET1>
+<STREET2></STREET2>
+<CITY>Pittsburgh</CITY>
+<REGION>PA </REGION>
+<COUNTRY>Usa</COUNTRY>
+<PIN></PIN>
+<CURRENT_LOCATION>Pittsburgh</CURRENT_LOCATION>
+<PREFERRED_LOCATION></PREFERRED_LOCATION>
+<AGE></AGE>
+<TOTAL_PROJECT_EXPERIENCE>7Year(s) & 9Month(s)</TOTAL_PROJECT_EXPERIENCE>
+<TOTAL_EXPERIENCE>7Year(s) & 9Month(s)</TOTAL_EXPERIENCE>
+<CURRENT_SALARY></CURRENT_SALARY>
+<EXPECTED_SALARY></EXPECTED_SALARY>
+<NATIONALITY></NATIONALITY>
+<LANGUAGES_1>Hindi</LANGUAGES_1>
+<LANGUAGES_2>Spanish</LANGUAGES_2>
+<LANGUAGES_3>Telugu</LANGUAGES_3>
+<LANGUAGES_4>Tamil</LANGUAGES_4>
+<MARITAL_STATUS>Unspecified</MARITAL_STATUS>
+<GENDER>Unspecified</GENDER>
+<PASSPORT_NUMBER></PASSPORT_NUMBER>
+<VISA_STATUS></VISA_STATUS>
+<DRIVING_LICENSE_DETAILS></DRIVING_LICENSE_DETAILS>
+
+
+                          ---------PROFESSIONAL DETAILS----------
+
+
+<JOB_OBJECTIVE></JOB_OBJECTIVE>
+<EXECUTIVE_SUMMARY></EXECUTIVE_SUMMARY>
+
+<SKILLS_SET_1>CPR</SKILLS_SET_1><LASTUSED_DATE_1>4/1/2012</LASTUSED_DATE_1>
+
+<CERTIFICATIONS>CPR</CERTIFICATIONS>
+<ROLE></ROLE>
+<FUNCTIONAL_AREA></FUNCTIONAL_AREA>
+<INDUSTRY_TYPE></INDUSTRY_TYPE>
+
+
+                           ---------EMPLOYMENT HISTORY----------
+
+
+<CURRENT_COMPANY_NAME>Essential</CURRENT_COMPANY_NAME>
+<CURRENT_DESIGNATION>Investment Management Intern</CURRENT_DESIGNATION>
+<CURRENT_PROJECT_START_DATE>7/1/2012</CURRENT_PROJECT_START_DATE>
+<CURRENT_PROJECT_END_DATE>8/1/2012</CURRENT_PROJECT_END_DATE>
+<CURRENT_PROJECT_SUMMARY>Essential Finance      Shanghai, China Investment Management Intern      July 2012-August 2012   Devised tax-effective offshore investment strategies for expatriates in China and prepared individualized financial plans for them   Researched and recommended selections that would eliminate unnecessary mirror fund management fees for clients and facilitate growth in net returns by 22% on average per annum   Attracted clients through networking and developed these relationships to yield a 60% attendance rate for new contacts at initial presentations</CURRENT_PROJECT_SUMMARY>
+
+
+<PREVIOUS_COMPANY_NAME_1>Deloitte Consulting</PREVIOUS_COMPANY_NAME_1>
+<PREVIOUS_DESIGNATION_1>Summer Intern, Strategy and Operations Division</PREVIOUS_DESIGNATION_1>
+<PREVIOUS_PROJECT_START_DATE_1>5/1/2011</PREVIOUS_PROJECT_START_DATE_1>
+<PREVIOUS_PROJECT_END_DATE_1>6/1/2011</PREVIOUS_PROJECT_END_DATE_1>
+<PREVIOUS_PROJECT_SUMMARY_1>Deloitte Consulting      Chennai, India Summer Intern, Strategy and Operations Division      May 2011-June 2011   Evaluated the profitability of India's power sector for potential clients looking to make investments from abroad   Formulated data from 40 local companies by creating Excel models to compute top performers for a management awards ceremony organized by Deloitte  Leadership   Created a competitive analysis and a 3-part plan for future market positioning in the region</PREVIOUS_PROJECT_SUMMARY_1>
+
+
+<PREVIOUS_COMPANY_NAME_2>Undergraduate Finance Association</PREVIOUS_COMPANY_NAME_2>
+<PREVIOUS_DESIGNATION_2>Peer Health Advocate</PREVIOUS_DESIGNATION_2>
+<PREVIOUS_PROJECT_START_DATE_2>8/1/2011</PREVIOUS_PROJECT_START_DATE_2>
+<PREVIOUS_PROJECT_END_DATE_2>4/1/2012</PREVIOUS_PROJECT_END_DATE_2>
+<PREVIOUS_PROJECT_SUMMARY_2>CMU University Health Services      Pittsburgh, PA Peer Health Advocate (PHA)      August 2011-April 2012   Conducted stress management workshops for students while working with other PHAs to improve the program menu of Health Services   Received AMA Certification in First Aid and CPR</PREVIOUS_PROJECT_SUMMARY_2>
+
+
+<PREVIOUS_COMPANY_NAME_3>Business Opportunities Conference</PREVIOUS_COMPANY_NAME_3>
+<PREVIOUS_DESIGNATION_3>Marketing Director</PREVIOUS_DESIGNATION_3>
+<PREVIOUS_PROJECT_START_DATE_3>1/1/2011</PREVIOUS_PROJECT_START_DATE_3>
+<PREVIOUS_PROJECT_END_DATE_3>10/1/2011</PREVIOUS_PROJECT_END_DATE_3>
+<PREVIOUS_PROJECT_SUMMARY_3>Business Opportunities Conference      Pittsburgh, PA Marketing Director      January 2011-October 2011   Introduced a revamped marketing strategy, including creation of new designs, logos, and summary booklets, to promote the BOC to both students and recruiting companies   Coordinated with participating companies to hold special promotional sessions with students</PREVIOUS_PROJECT_SUMMARY_3>
+
+
+
+
+                             ---------EDUCATIONAL DETAILS----------
+
+
+<HIGHEST_DEGREE>Bachelor</HIGHEST_DEGREE>
+<HIGHEST_EDUCATIONTYPE>Graduate/ Undergraduate</HIGHEST_EDUCATIONTYPE>
+<HIGHEST_EDUCATIONDETAILS>Science</HIGHEST_EDUCATIONDETAILS>
+<HIGHEST_FIELDOFSTUDY>Science</HIGHEST_FIELDOFSTUDY>
+<HIGHEST_EDUCATION_START_DATE></HIGHEST_EDUCATION_START_DATE>
+<HIGHEST_EDUCATION_YEAR_OF_PASSING>5/1/2014</HIGHEST_EDUCATION_YEAR_OF_PASSING>
+<HIGHEST_INSTITUTION_NAME>Carnegie Mellon University</HIGHEST_INSTITUTION_NAME>
+<HIGHEST_INSTITUTION_TYPE>University</HIGHEST_INSTITUTION_TYPE>
+<HIGHEST_INSTITUTION_LOCATION>May</HIGHEST_INSTITUTION_LOCATION>
+<HIGHEST_EDUCATION_DESCRIPTION>Tepper School of Business, Carnegie Mellon University      Pittsburgh, PA Bachelor of Science in Business Administration (Track in Finance)      May 2014 Additional Major in Decision Science GPA: 3.9/4.0; Dean's List: All Semesters</HIGHEST_EDUCATION_DESCRIPTION>
+<HIGHEST_EDUCATION_MARKS></HIGHEST_EDUCATION_MARKS>
+
+
+<PREVIOUS_DEGREE_1></PREVIOUS_DEGREE_1>
+<PREVIOUS_EDUCATIONTYPE_1>Higher Secondary(HSC)</PREVIOUS_EDUCATIONTYPE_1>
+<PREVIOUS_EDUCATIONDETAILS_1>General</PREVIOUS_EDUCATIONDETAILS_1>
+<PREVIOUS_FIELDOFSTUDY_1>Higher Secondary</PREVIOUS_FIELDOFSTUDY_1>
+<PREVIOUS_EDUCATION_START_DATE_1></PREVIOUS_EDUCATION_START_DATE_1>
+<PREVIOUS_EDUCATION_YEAR_OF_PASSING_1>7/1/2011</PREVIOUS_EDUCATION_YEAR_OF_PASSING_1>
+<PREVIOUS_INSTITUTION_NAME_1>London School of Economics</PREVIOUS_INSTITUTION_NAME_1>
+<PREVIOUS_INSTITUTION_TYPE_1>UnSpecified</PREVIOUS_INSTITUTION_TYPE_1>
+<PREVIOUS_INSTITUTION_LOCATION_1></PREVIOUS_INSTITUTION_LOCATION_1>
+<PREVIOUS_EDUCATION_DESCRIPTION_1>London School of Economics      London, UK Intermediate Macroeconomics      July 2011 Recipient, CMU Tartans Abroad Scholarship</PREVIOUS_EDUCATION_DESCRIPTION_1>
+<PREVIOUS_EDUCATION_MARKS_1></PREVIOUS_EDUCATION_MARKS_1>
+
+
+
+
+<RESUME_CONTEXT>The candidate is working as  with a good working Experience of 7Year(s) & 9Month(s) and Skilled in CPR. The Current Salary:  and Expected Salary: . Candidate's Functional Area seems to be:  and Industry is ; Currently located at Pittsburgh. The candidate posses Bachelor with major as Science.</RESUME_CONTEXT>
+
+
+                             ---------CANDIDATE RESUME IN TEXT FORMAT----------
+
+
+<RESUME_TEXT_FORMAT>ANNA LIST 
+ 
+SMC# 1234, 5000 Forbes Avenue, Pittsburgh, PA 15289. annalist@cmu.edu. (412) 555-5555 
+ 
+Education 
+Tepper School of Business, Carnegie Mellon University                                                                                                        Pittsburgh, PA 
+Bachelor of Science in Business Administration (Track in Finance)                                                                                                May 2014 
+Additional Major in Decision Science                                                                                                                           
+GPA: 3.9/4.0; Dean’s List: All Semesters 
+ 
+London School of Economics                                                                                                                                                                   London, UK 
+Intermediate Macroeconomics                                                                                                                                                                       July 2011 
+Recipient, CMU Tartans Abroad Scholarship 
+Experience 
+Essential Finance                                                                                                                                                                                  Shanghai, China 
+Investment Management Intern                                                                                                                                            July 2012-August 2012 
+  Devised tax-effective offshore investment strategies for expatriates in China and prepared individualized financial 
+plans for them 
+  Researched and recommended selections that would eliminate unnecessary mirror fund management fees for clients 
+and facilitate growth in net returns by 22% on average per annum  
+  Attracted clients through networking and developed these relationships to yield a 60% attendance rate for new 
+contacts at initial presentations 
+Deloitte Consulting                                                                                                                                                                                 Chennai, India                                                                                     
+Summer Intern, Strategy and Operations Division                                                                                                               May 2011-June 2011 
+  Evaluated the profitability of India’s power sector for potential clients looking to make investments from abroad 
+  Formulated data from 40 local companies by creating Excel models to compute top performers for a management 
+awards ceremony organized by Deloitte  
+  Created a competitive analysis and a 3-part plan for future market positioning in the region
+ 
+                                                                                    Leadership 
+Undergraduate Finance Association (UFA)                                                                                                                                 Pittsburgh, PA             
+President                                                                                                                                                                                     February 2011-Present 
+  Oversee events for 550 UFA members, handle corporate relations with external sponsors, and  formulate the agendas 
+for and direct activities of the Executive Board  
+  Organize the annual ‘Network Manhattan’ event by working closely with financial services alumni in New York City 
+CMU University Health Services                                                                                                                                                       Pittsburgh, PA 
+Peer Health Advocate (PHA)                                                                                                                                                 August 2011-April 2012   
+  Conducted stress management workshops for students while working with other PHAs to improve the program menu 
+of Health Services  
+  Received AMA Certification in First Aid and CPR 
+Business Opportunities Conference                                                                                                                                               Pittsburgh, PA                
+Marketing Director                                                                                                                                                          January 2011-October 2011 
+  Introduced a revamped marketing strategy, including creation of new designs, logos, and summary booklets, to 
+promote the BOC to both students and recruiting companies 
+  Coordinated with participating companies to hold special promotional sessions with students  
+Skills & Honors 
+  Selected as a 2012 Student Ambassador to Carnegie Mellon’s sister campus in Doha, Qatar 
+  Member, Tepper School Dean’s Advisory Council 
+  Represented CMU at the 2011 Undergraduate Business School Leadership Conference at Emory University 
+  Proficient with Java, Microsoft Office, Photoshop, and Salesforce software 
+  Languages: Hindi, Basic Spanish, Telugu & Tamil 
+     </RESUME_TEXT_FORMAT>
+
