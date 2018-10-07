@@ -1,0 +1,47 @@
+body{
+background-color:grey;
+}
+
+h1{
+	color:cyan;
+	font-family:Arial ;
+	margin:0;
+}h1
+.Container{
+	text-align : center;
+	width:400px;
+	margin:auto;
+}
+.myclass{
+	width:50%;
+	text-align : left;
+	border-bottom:5px  solid;
+	border-left:5px solid;
+	border-right:5px solid;
+	border-top:5px solid;
+	border-color:red;
+	padding:10px;
+	color:yellow;
+}
+
+.form-group .myclass{
+
+	padding 15px;
+}
+.myclass label{
+	display:block;
+}
+
+.myclass input[type="text"]{
+	color:yellow
+	padding : 8px;
+	width:90%;
+}
+.butt{
+	
+	padding: 10px;
+}
+.butt button[type = "signup"]{
+	margin-left:10px;
+}
+
