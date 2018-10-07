@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+ <div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      <h3>{{ request.user }}</h3>
+      <h1>HERE</h3>
+    </div>
+    <div class="col-md-4">
+      <h1>Log In</h1>
+    </div>
+<!--
+<div id="btnContainer">
+<button class="btn" onclick="listView()"><i class="fa fa-bars"></i> List</button>
+<button class="btn active" onclick="gridView()"><i class="fa fa-th-large"></i> Grid</button>
+</div>
+<br>
+
+
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+
+    <h1>{{ project.semester}}</h1>
+    <p>{{ project.course_name}}</p>
+
+  </div>
+</div>
+-->
+<!--  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+
+  <div class="container">
+    {% for project in project_list %}
+    <ul class="list-group">
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        <h1><a href="{% url 'project_detail' pk=project.pk %}">{{ project.title }}</a></h1>
+        <span class="badge badge-primary badge-pill">{{ project.likes }}</span>
+      </li>
+      <p>Published on: {{ project.publlished_date|date:"D M Y" }}</p>
+      {% endfor %}
+    </ul>-->
+    {%for project in projects%}
+    <div class="card" style="width: 18rem; margin:10px;">
+
+      <!--<img class="card-img-top" src="..." alt="Card image cap">-->
+        <div class="card-body">
+          <h5 class="card-title">{{ project.project_name }}</h5>
+          <!--<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
+          {% if project.faculty_mentor%}
+          <h6>Mentored By:<h6>
+          <p>Faculty: {{ project.faculty_mentor }}</p>
+          {% endif %}
+          {% if project.student_mentor %}
+            
+            <p>Student Mentor: {{ project.student_mentor }}</p>
+          {% endif %}
+          <a href='{% url "App:project-detail" project.id %}' class="btn btn-primary">More About Project</a>
+        </div>
+    </div>
+    {%endfor%}
+<!--
+  </div>
+
+</div>
+
+<div class="row">
+  <div class="column" style="background-color:#ccc;">
+    <h2>Column 3</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#ddd;">
+    <h2>Column 4</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+</div>
+-->
+
+{% endblock %}

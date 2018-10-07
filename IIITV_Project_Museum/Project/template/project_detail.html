@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <div class="x">
+    <h1>{{ project.title }}</h1>
+    <p>Published on: {{ project.date }}</p>
+  </div>
+  <div class="y">
+    <p>{{ project.semester }}<p>
+  </div>
+  <div class="y">
+    <p>{{ project.member }}<p>
+  </div>
+  <div class="y">
+    <p>{{ project.faculty_mentor }}<p>
+  </div>
+  <div class="y">
+    <p>{{ project.project_description }}<p>
+  </div>
+  <div class="y">
+    <p>{{ project.student_mentor }}<p>
+  </div>
+  <div class="y">
+    <p>{{ project.likes }}<p>
+  </div>
+  {% if user.is_authenticated %}
+      <a class="btn btn-primary" href="#"><span class="glyphicon glyphicon-pencil"></span></a>
+      <a class="btn btn-primary" href="#"><span class="glyphicon glyphicon-remove"></span></a>
+  {% endif %}
+
+{% endblock %}

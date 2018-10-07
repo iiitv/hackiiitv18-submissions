@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+
+<html>
+  <head>
+    <title>Project Museum | IIIT Vadodara</title>
+  </head
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" type="text/css" href="{% static 'css/main.css' %}">
+
+    <script src="{% static 'js/main.js' %}"></script>
+
+  <body>
+      <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <div class="container-fluid">
+          <a href="/"class="navbar-brand" style="color: white">PM-IIITV</a>
+          <ul class="navbar-nav">
+            <li class="nav-item"><a href="/about-us" class="nav-link">About Us</a></li>
+            <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+            <li class="nav-item"><a href="/leaderboard" class="nav-link">Leaderboard</a></li>
+            <!--<li class="nav-item"><a href="#" class="nav-link">Past Recruiter</a></li>
+            <li class="nav-itme"><a href="#" class="nav-link">Contact</a></li>-->
+          </ul>
+          <ul class="nav justify-content-end">
+            <li class="nav-item">
+              <!--<a href="#" class="btn btn-outline-success nav-link">Login</a>-->
+              <a href="/login"><button type="button" class="btn btn-outline-success">Login</button></a>
+            </li>
+            &nbsp
+            <li class="nav-item">
+              <!--<a href="#" class="btn btn-outline-primary nav-link">SignUp</a>-->
+              <a href="/register"><button type="button" class="btn btn-outline-secondary">SignUp</button></a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <div class="container">
+        {% block content %}
+
+        {% endblock%}
+      </div>
+      <footer>
+        <p style="color: white;">Team ENCORE IIIT Vadodara</p>
+      </footer>
+</html>
