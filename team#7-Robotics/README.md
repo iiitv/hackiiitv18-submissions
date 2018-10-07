@@ -1,11 +1,9 @@
 
-# AUTOMATED CLASSROOM ATTENDANCE
+# FASE: Facial Attendance Security Elevation
 
 IDEA: This project automates attendance of students automatically based on facial recognition
 	
 ## Theme : Automation
-## Product Name
- FASE: Facial Attendance Security Elevation
  
 ## Hardware Requirements
 
