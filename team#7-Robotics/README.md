@@ -1,22 +1,22 @@
-#AUTOMATED CLASSROOM ATTENDANCE
+# AUTOMATED CLASSROOM ATTENDANCE
 
 IDEA: This project automates attendance of students automatically based on facial recognition
 	
-##Theme : Automation
-##Product Name: 
+## Theme : Automation
+## Product Name: 
  
-##Hardware Requirements
+## Hardware Requirements
 
 - Webcam
 - Raspberripi
 - Wifi conectivity
 
-##How it works
+## How it works
 
 - Each door in the classroom has an attached camera which registers faces everytime someone enters and exits.
 
 <p align="center">
- <img ss="./front.jpeg" alt="FrontFace" style="width: 400px;"/></div>
+ <img ss="./front.jpeg" alt="front" style="width: 400px;"/></div>
 </p>
 
 - Upon facial recognition, a timestamp is stored along with every successful facial recognition be it entering the room or leaving.
@@ -25,7 +25,7 @@ IDEA: This project automates attendance of students automatically based on facia
 - Students having only one timestamp i.e only at the time of entry or exit would be marked absent unless explicitly verified by humans.
 - Extreme case of recognising twins can be tackled by imlementing two step verifcation process like verification by roll numbers or biometrics.
 
-##Technicalities
+## Technicalities
 
 - The image is captured using camera with raspberrypi 1b+.
 - Implementation of OpenCV for facial recogniton algorithm.
