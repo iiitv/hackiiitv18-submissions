@@ -6,6 +6,6 @@ from django.conf.urls import url
 from . import views
 
 urlpatterns = [
-	path('admin/', admin.site.urls),
-    path('api/v1/', include('api.urls')),
+    path('<int:form_id>/<int:uid>/cv_score', views.cv_score_getter),
+	path('<int:form_id>/<int:uid>/behavior', views.get_behavior_score)
 	]

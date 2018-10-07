@@ -61,6 +61,16 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'iscreening.urls'
 
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework_firebase.authentication.FirebaseAuthentication',
+    )
+}
+
+FIREBASE_AUTH = {
+    'FIREBASE_ACCOUNT_KEY_FILE': '../firebase_config.json',
+}
+
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
