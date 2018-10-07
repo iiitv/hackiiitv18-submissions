@@ -4,6 +4,7 @@ IDEA: This project automates attendance of students automatically based on facia
 	
 ## Theme : Automation
 ## Product Name: 
+## FASE: Facial Attendance Security Elevation
  
 ## Hardware Requirements
 
