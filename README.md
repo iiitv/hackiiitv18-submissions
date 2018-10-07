@@ -47,7 +47,7 @@ Follow the instructions in order:
 9. Push the changes using,
     `git push`
 
-10. Open a pull request: As soon as the changes will be pushed, GUI of repository's main page will show a yellow banner saying you too open a Pull request, just click on it and you are done.
+10. Open a pull request: As soon as the changes will be pushed, GUI of repository's main page will show a yellow banner saying you to open a Pull request, just click on it and you are done.
 
 For making changes to PR, just keep on repeating Step 6-9.
 
