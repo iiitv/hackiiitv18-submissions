@@ -43,4 +43,7 @@ def cv_score_getter(request, form_id, uid):
     return Response({'cv_score': cv_score}, status=200)
 
 def get_behavior_score(request, form_id, uid):
+    form = database.reference('forms/{0}'.format(form_id)).get()
+    user_obj =  form.reference('users/{0}'.format(uid)).get()
+
     pass
