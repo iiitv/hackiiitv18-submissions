@@ -7,10 +7,9 @@ using namespace std;
 
 void Dep()
 {
-
+system("clear");
 ofstream fout;
 fout.open( "goldep.txt", ios::out );
-fout.seekp(ios::beg);
 
 int a[18], i;
 int sum = 0;
@@ -98,6 +97,7 @@ printf("\n");
 fout<<sum;
 fout<<"\n";
 
+fout.seekp(ios::beg);
 fout.close();
 
 
