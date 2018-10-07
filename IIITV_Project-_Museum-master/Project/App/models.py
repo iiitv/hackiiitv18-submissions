@@ -22,7 +22,7 @@ class Project(models.Model):
     date=models.DateTimeField(auto_now_add=True)
     faculty_mentor = models.ForeignKey(User, on_delete=models.CASCADE, blank=True, null=True, related_name='faculty_mentor')
     student_mentor = models.ForeignKey(User, on_delete=models.CASCADE, blank=True, null=True, related_name='student_mentor')
-    likes = models.IntegerField(default=0)
+    likes = models.ManyToManyField(User,blank=True,null=True,related_name='likes')
     file_upload = models.FileField(blank=True, null=True, verbose_name=_("file"))
 
     #class Meta:
