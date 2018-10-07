@@ -15,11 +15,6 @@ IDEA: This project automates attendance of students automatically based on facia
 ## How it works
 
 - Each door in the classroom has an attached camera which registers faces everytime someone enters and exits.
-
-<p align="center">
- <img ss="./front.jpeg" alt="front" style="width: 400px;"/></div>
-</p>
-
 - Upon facial recognition, a timestamp is stored along with every successful facial recognition be it entering the room or leaving.
 - Based on the timestamps registered at entry and exit point(s), the total amount of time spent inside the classroom is calculated.
 - Students spending more than 60% of the time in the classroom are marked present.
