@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+/* Container for flexboxes */
+section {
+    display: -webkit-flex;
+    display: flex;
+}
+
+/* Style the navigation menu */
+nav {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #ccc;
+    padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Style the content */
+article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    section {
+      -webkit-flex-direction: column;
+      flex-direction: column;
+    }
+}
+</style>
+
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+</head>
+<body>
+
+
+
+<header>
+  <h2>header</h2>
+</header>
+
+<section>
+  <nav>
+  <center>
+    <P>WORK AS A RECYLATOR </p>
+	 <a href="LOGIN.html">
+	 
+	  <input type="submit" name="login" value="login" style="height:50px;width:100px;font-size:28pt;">
+	
+	</a>
+	
+	<br>
+<br>
+<br>
+	 <a href="SIGNUP.html">
+	  <input type="submit" name="signup" value="REGISTER" style="height:50px;width:200px;font-size:28pt;">
+	
+	</a>
+	</center>
+  </nav>
+  
+  <article>
+   <br>
+     <center>
+<input id="text" name="searchitem" type="text" placeholder="Find an item" >
+
+<br>
+<br>
+<br>
+  </center>
+
+<div class="row">
+
+
+  <div class="column" style="background-color:#aaa;">
+  <center>
+    <h2>Column 1</h2>
+    <font size="6"><a href="electronic_waste.html">electronic waste</a></font>
+	<Br>
+	<font size="6"><a href="glass.html">glass</a></font>
+	<Br>
+	<font size="6"><a href="leather_and_rubber.html">leather and rubber</a></font>
+	<Br>
+	<font size="6"><a href="paper.html">paper</a></font>
+	<Br>
+	<font size="6"><a href="plastic.html">plastic</a></font>
+	<Br>
+	<center>
+  </div>
+  
+  
+  
+  <div class="column" style="background-color:#bbb;">
+    <center>
+    <h2>Column 2</h2>
+    <font size="6"><a href="scrap_metal.html">scrap and metal</a></font>
+	<Br>
+	<font size="6"><a href="textile.html">textiles</a></font>
+	<Br>
+	<font size="6"><a href="wood.html">wood material</a></font>
+	<Br>
+	<font size="6"><a href="#">a1</a></font>
+	<Br>
+	<font size="6"><a href="#">a1</a></font>
+	<Br>
+	  <center>
+  </div>
+  
+  
+  <div class="column" style="background-color:#ccc;">
+    <center>
+    <h2>Column 3</h2>
+   <font size="6"><a href="#">a1</a></font>
+	<Br>
+	<font size="6"><a href="#">a1</a></font>
+	<Br>
+	<font size="6"><a href="#">a1</a></font>
+	<Br>
+	<font size="6"><a href="#">a1</a></font>
+	<Br>
+	<font size="6"><a href="#">a1</a></font>
+	<Br>
+	  </center>
+  </div>
+</div>
+  </article>
+</section>
+
+<footer>
+  <p>Footer</p>
+</footer>
+
+</body>
+</html>
