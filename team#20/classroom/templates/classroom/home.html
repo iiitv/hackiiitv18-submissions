@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h2>Welcome to the Classroom Quiz <span class="icon-emo-happy"></span></h2>
+  <p class="lead">
+    Let's Quiz Begin.. Click here to  continue <a href="{% url 'login' %}">log in</a>.</p>
+        <p class="lead">New to Classroom Quiz? Get Started as  <a href="{% url 'student_signup' %}">student account</a>
+         or as <a href="{% url 'teacher_signup' %}">teacher account</a>.</p>
+{% endblock %}
