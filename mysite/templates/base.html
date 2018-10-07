@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <title>{% block title %}MediCare{% endblock %}</title>
+  </head>
+  <body>
+    <nav class='blue' >
+      <div class='nav-wrapper container'>
+        <a href='/' class='brand-logo'>MediCare</a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          {% if user.is_authenticated %}
+            <li><a href="{% url 'logout' %}">logout</a></li>
+          {% else %}
+            <li><a href="{% url 'login' %}">login</a> / <a href="{% url 'signup' %}">signup</a></li>
+          {% endif %}
+      </ul>
+        <hr>
+      </div>
+  </nav>
+    <main>
+      {% block content %}
+      {% endblock %}
+    </main>
+    <footer class='container' style='margin-top: 10px;'>
+      <hr margin='10px' />
+      <p align='center'>MediCare</p>
+    </footer>
+  </body>
+</html>
