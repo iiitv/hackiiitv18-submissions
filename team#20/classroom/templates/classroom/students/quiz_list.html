@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  {% include 'classroom/students/_header.html' with active='new' %}
+  <div class="card">
+    <table class="table mb-0">
+      <thead>
+        <tr>
+          <th>Quiz</th>
+          <th>Subject</th>
+          <th>Length</th>
+          <th>Password</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for quiz in quizzes %}
+          <tr>
+            <td class="align-middle">{{ quiz.name }}</td>
+            <td class="align-middle">{{ quiz.subject.get_html_badge }}</td>
+            <td class="align-middle">{{ quiz.questions_count }} questions</td>
+            <form method="POST" action="{% url 'students:take_quiz' quiz.pk %}">
+              {% csrf_token %}
+              <td class="align-middle">
+                <input type="text" name="password"/>
+              </td>
+              <td class="text-right">
+                <button type="submit" class="save btn btn-primary">Start</button>
+                <!--<a href="{% url 'students:take_quiz' quiz.pk %}" class="btn btn-primary">Start quiz</a>-->
+              </td>
+           </form>
+          </tr>
+        {% empty %}
+          <tr>
+            <td class="bg-light text-center font-italic" colspan="4">No quiz matching your interests right now.</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% endblock %}
