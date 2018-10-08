@@ -7,7 +7,7 @@ This repository is archive of hacks created during HackIIITV 2018.
 - GitHub account
 - Install [git](https://git-scm.com/) for your repsective OS.
 - Make sure you are part of IIITV organisation on GitHub, else join [here](http://getmein.glitch.me/)
-
+-
 ## Few pointers
 
 - You can make atmax one commit per hour.
@@ -15,7 +15,7 @@ This repository is archive of hacks created during HackIIITV 2018.
 - No commits after Hackathon ends will be entertained.
 - It is recommended to make one commit/hour to keep your hack backed up.
 - Make sure your whole project is inside the folder of your team.
-- If you have time left, make sure you make a README.md 😉
+- If you have time left, make sure you make a README.md 😉(it will help others to understand your code)
 
 ## How to submit?
 
