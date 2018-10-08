@@ -1,0 +1,6 @@
+Project/Project/__pycache__
+Project/.vscode
+Project/App/__pycache__
+Project/db.sqlite3
+Project/App/migrations/__pycache__
+Project/venv
