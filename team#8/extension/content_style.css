@@ -1,0 +1,25 @@
+#time-counter-notification {
+  position: fixed;
+  bottom: 30px;
+  right: 10px;
+  background: #ccf;
+  padding: 10px;
+  text-align: center;
+  transition: opacity 1s;
+  line-height: 1;
+}
+
+#time-counter-time {
+  color: red;
+  font-size: 3em;
+  font-weight: bold;
+  display: block;
+}
+
+#time-counter-site {
+  font-weight: bold;
+}
+
+.hidden {
+  opacity: 0;
+}
