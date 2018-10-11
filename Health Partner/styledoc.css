@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+   background: url(dd.jpg);
+    background-size: cover;
+    background-position: center;;
+
+    font-family: sans-serif;
+}
+
+mark
+{
+background-color: white;
+}
