@@ -1,0 +1,134 @@
+
+                   ---------PERSONAL DETAILS----------
+
+
+<CANDIDATE_FULL_NAME></CANDIDATE_FULL_NAME>
+<CANDIDATE_FIRST_NAME></CANDIDATE_FIRST_NAME>
+<CANDIDATE_MIDDLE_NAME></CANDIDATE_MIDDLE_NAME>
+<CANDIDATE_LAST_NAME></CANDIDATE_LAST_NAME>
+<FATHER_NAME></FATHER_NAME>
+<PRIMARY_EMAIL_ID>me@home.com</PRIMARY_EMAIL_ID>
+<SECONDARY_EMAIL_ID></SECONDARY_EMAIL_ID>
+<OFFICIAL_EMAIL_ID></OFFICIAL_EMAIL_ID>
+<PHONE_MOBILE>(123)0000000</PHONE_MOBILE>
+<PHONE_BASIC></PHONE_BASIC>
+<FAX_PHONE></FAX_PHONE>
+<DOB></DOB>
+<STREET1>111 First St, </STREET1>
+<STREET2></STREET2>
+<CITY>New York</CITY>
+<REGION>NEW YORK </REGION>
+<COUNTRY>Usa</COUNTRY>
+<PIN></PIN>
+<CURRENT_LOCATION>New York</CURRENT_LOCATION>
+<PREFERRED_LOCATION></PREFERRED_LOCATION>
+<AGE></AGE>
+<TOTAL_PROJECT_EXPERIENCE>7Year(s) & Month(s)</TOTAL_PROJECT_EXPERIENCE>
+<TOTAL_EXPERIENCE>8Year(s) & 9Month(s)</TOTAL_EXPERIENCE>
+<CURRENT_SALARY></CURRENT_SALARY>
+<EXPECTED_SALARY></EXPECTED_SALARY>
+<NATIONALITY></NATIONALITY>
+<MARITAL_STATUS>Unspecified</MARITAL_STATUS>
+<GENDER>Unspecified</GENDER>
+<PASSPORT_NUMBER></PASSPORT_NUMBER>
+<VISA_STATUS></VISA_STATUS>
+<DRIVING_LICENSE_DETAILS></DRIVING_LICENSE_DETAILS>
+
+
+                          ---------PROFESSIONAL DETAILS----------
+
+
+<JOB_OBJECTIVE></JOB_OBJECTIVE>
+<EXECUTIVE_SUMMARY></EXECUTIVE_SUMMARY>
+
+<SKILLS_SET_1>Matlab</SKILLS_SET_1><LASTUSED_DATE_1></LASTUSED_DATE_1>
+<SKILLS_SET_2> Javascript</SKILLS_SET_2><LASTUSED_DATE_2></LASTUSED_DATE_2>
+
+<CERTIFICATIONS></CERTIFICATIONS>
+<ROLE>Software Developer | 1 Software Developer</ROLE>
+<FUNCTIONAL_AREA>IT Software -Application Programming / Maintenance | IT Software - Client Server | IT Software - DBA / Datawarehousing | IT Software - ERP / CRM | IT Software - Embedded / EDA / VLSI / ASIC / Chip Design | IT Software - Network Administration / Security | IT Software - Other | IT Software - QA & Testing |  IT Software - System Programming |  IT Software - Telecom | IT Software - Systems / EDP / MIS | IT Software - Ecommerce /  Internet Technologies | IT Software - Mainframe |  IT Software - Mobile | IT Software - Middleware</FUNCTIONAL_AREA>
+<INDUSTRY_TYPE></INDUSTRY_TYPE>
+
+
+                           ---------EMPLOYMENT HISTORY----------
+
+
+<CURRENT_COMPANY_NAME>Google</CURRENT_COMPANY_NAME>
+<CURRENT_DESIGNATION>Software Developer</CURRENT_DESIGNATION>
+<CURRENT_PROJECT_START_DATE>1/1/2011</CURRENT_PROJECT_START_DATE>
+<CURRENT_PROJECT_END_DATE>1/1/2017</CURRENT_PROJECT_END_DATE>
+<CURRENT_PROJECT_SUMMARY>Software Developer 2011-2017 Google Job description goes here. To maintain a stylish look, try to  ll this description with a few lines of text. Do the same for the other entries in this section. Graphic Designer</CURRENT_PROJECT_SUMMARY>
+
+
+<PREVIOUS_COMPANY_NAME_1>Saboo's</PREVIOUS_COMPANY_NAME_1>
+<PREVIOUS_DESIGNATION_1></PREVIOUS_DESIGNATION_1>
+<PREVIOUS_PROJECT_START_DATE_1>1/1/2010</PREVIOUS_PROJECT_START_DATE_1>
+<PREVIOUS_PROJECT_END_DATE_1>1/1/2011</PREVIOUS_PROJECT_END_DATE_1>
+<PREVIOUS_PROJECT_SUMMARY_1>2010-2011 Saboo's corporation Job description goes here. To maintain a stylish look, try to  ll this description with a few lines of text. Do the same for the other entries in this section.</PREVIOUS_PROJECT_SUMMARY_1>
+
+
+
+
+                             ---------EDUCATIONAL DETAILS----------
+
+
+<HIGHEST_DEGREE>Bachelors</HIGHEST_DEGREE>
+<HIGHEST_EDUCATIONTYPE>Graduate/ Undergraduate</HIGHEST_EDUCATIONTYPE>
+<HIGHEST_EDUCATIONDETAILS></HIGHEST_EDUCATIONDETAILS>
+<HIGHEST_FIELDOFSTUDY></HIGHEST_FIELDOFSTUDY>
+<HIGHEST_EDUCATION_START_DATE>1/1/2010</HIGHEST_EDUCATION_START_DATE>
+<HIGHEST_EDUCATION_YEAR_OF_PASSING>1/1/2012</HIGHEST_EDUCATION_YEAR_OF_PASSING>
+<HIGHEST_INSTITUTION_NAME>Harvard University</HIGHEST_INSTITUTION_NAME>
+<HIGHEST_INSTITUTION_TYPE>University</HIGHEST_INSTITUTION_TYPE>
+<HIGHEST_INSTITUTION_LOCATION>Goes</HIGHEST_INSTITUTION_LOCATION>
+<HIGHEST_EDUCATION_DESCRIPTION>Bachelors
+ 2010-2012
+ Harvard University
+ GPA: 3.8
+ Descriptive text goes here. In order to maintain a stylish look, try to  ll this description with a few lines of text. Do the same for the other entries in the education section.</HIGHEST_EDUCATION_DESCRIPTION>
+<HIGHEST_EDUCATION_MARKS></HIGHEST_EDUCATION_MARKS>
+
+
+
+
+<RESUME_CONTEXT>The candidate is working as Software Developer | 1 Software Developer with a good working Experience of 8Year(s) & 9Month(s) and Skilled in Matlab, Javascript. The Current Salary:  and Expected Salary: . Candidate's Functional Area seems to be: IT Software -Application Programming / Maintenance | IT Software - Client Server | IT Software - DBA / Datawarehousing | IT Software - ERP / CRM | IT Software - Embedded / EDA / VLSI / ASIC / Chip Design | IT Software - Network Administration / Security | IT Software - Other | IT Software - QA & Testing |  IT Software - System Programming |  IT Software - Telecom | IT Software - Systems / EDP / MIS | IT Software - Ecommerce /  Internet Technologies | IT Software - Mainframe |  IT Software - Mobile | IT Software - Middleware and Industry is ; Currently located at New York. The candidate posses Bachelors with major as .</RESUME_CONTEXT>
+
+
+                             ---------CANDIDATE RESUME IN TEXT FORMAT----------
+
+
+<RESUME_TEXT_FORMAT>Your Name
+Curriculum Vitae
+PERSONAL DETAILS
+Birth
+January 1, 1980
+Address
+111 First St, New York
+Phone
+(123) 000-0000
+Mail me@home.com
+EDUCATION
+Bachelors
+2010-2012
+Harvard University
+GPA : 3.8
+Descriptive text goes here. In order to maintain a stylish look, try to ll this description
+with a few lines of text. Do the same for the other entries in the education section.
+WORK EXPERIENCE
+Software Developer
+2011-2017
+Google
+Job description goes here. To maintain a stylish look, try to ll this description with a few
+lines of text. Do the same for the other entries in this section.
+Graphic Designer
+2010-2011
+Saboo's corporation
+Job description goes here. To maintain a stylish look, try to ll this description with a few
+lines of text. Do the same for the other entries in this section.
+SKILLS
+Languages C++, Haskell, Matlab
+Django, Javascript
+Software Node JS, React JS, PyTorch
+REFERENCES
+Available upon request</RESUME_TEXT_FORMAT>
+
