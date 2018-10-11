@@ -1,0 +1,22 @@
+{
+  "name": "Chrome Extension Demo",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "My Extension",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["content_script.js"],
+      "css": ["content_style.css"]
+    }
+  ],
+  "permissions": [
+    "tabs",
+    "http://*/*",
+    "https://*/*",
+    "notifications"
+  ]
+}
