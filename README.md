@@ -7,7 +7,7 @@ This repository is archive of hacks created during HackIIITV 2018.
 - GitHub account
 - Install [git](https://git-scm.com/) for your repsective OS.
 - Make sure you are part of IIITV organisation on GitHub, else join [here](http://getmein.glitch.me/)
--
+
 ## Few pointers
 
 - You can make atmax one commit per hour.
