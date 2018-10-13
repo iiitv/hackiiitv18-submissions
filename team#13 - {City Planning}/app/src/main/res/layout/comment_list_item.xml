@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:expandableTextView="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/large_intrinsic_padding"
+    android:paddingTop="@dimen/large_intrinsic_padding">
+
+    <com.abc.xyz.views.CircularImageView
+        android:id="@+id/avatarImageView"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_stub"
+        app:shadow="false"
+        app:border="true"
+        app:border_width="0dp" />
+
+    <com.abc.xyz.views.ExpandableTextView
+        android:id="@+id/commentText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/avatarImageView"
+        android:paddingLeft="@dimen/large_intrinsic_padding"
+        expandableTextView:animAlphaStart="1"
+        expandableTextView:animDuration="200"
+        expandableTextView:collapseText="@string/collapse_text_label"
+        expandableTextView:expandText="@string/expand_text_label"
+        expandableTextView:maxCollapsedLines="3">
+
+        <TextView
+            android:id="@+id/expandable_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:ellipsize="end"
+            android:textAppearance="@style/TextAppearance.Second" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:paddingTop="@dimen/small_intrinsic_padding">
+
+            <TextView
+                android:id="@+id/dateTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:text="day ago"
+                android:textAppearance="@style/TextAppearance.Second.Light" />
+
+            <TextView
+                android:id="@+id/expand_collapse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:autoLink="web"
+                android:textAppearance="@style/TextAppearance.Second.Light" />
+
+        </RelativeLayout>
+
+    </com.abc.xyz.views.ExpandableTextView>
+
+</RelativeLayout>

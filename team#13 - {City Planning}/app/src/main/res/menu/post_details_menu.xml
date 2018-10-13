@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/complain_action"
+        android:title="@string/add_complain"
+        app:showAsAction="never"
+        android:orderInCategory="1"
+        android:visible="false"/>
+
+    <item
+        android:id="@+id/edit_post_action"
+        android:title="@string/edit_post_menu"
+        app:showAsAction="never"
+        android:orderInCategory="2"
+        android:visible="false" />
+
+    <item
+        android:id="@+id/delete_post_action"
+        android:title="@string/delete_post_menu"
+        app:showAsAction="never"
+        android:orderInCategory="2"
+        android:visible="false" />
+
+</menu>
